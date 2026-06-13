@@ -26,6 +26,12 @@ const tools = [
     icon: "Aa",
   },
   {
+    href: "/split-half",
+    title: "Split Pages in Half",
+    description: "Cut each page horizontally — one W×H page becomes two W×H/2 pages.",
+    icon: "⊸",
+  },
+  {
     href: "/parser",
     title: "Google Sheets Parser",
     description: "Extract a table from a public Google Sheets page as JSON.",
